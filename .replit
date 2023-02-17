@@ -1,0 +1,2 @@
+language = "c++"
+run = "g++ swapper.cpp -o output; ./output"
